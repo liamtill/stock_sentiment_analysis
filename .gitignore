@@ -1,0 +1,5 @@
+*.csv
+*.yaml
+!config.yaml.example
+__pycache__/
+venv/

@@ -1,0 +1,16 @@
+GLOBAL:
+  lookback: 30
+  sublimit: 100
+
+
+APIKEYS:
+  socialsentiment: <APIKEY>
+  newsapi: <APIKEY>
+  
+REDDIT:
+  id: <ID>
+  secret: <SECRET>
+  appname: <APP NAME>
+  username: <USERNAME?
+  passwd: <PASSWORD>
+  subs: ['wallstreetbets', 'investing', 'stocks']
